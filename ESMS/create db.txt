@@ -1,0 +1,28 @@
+CREATE DATABASE ems;
+USE ems;
+
+CREATE table useraccount(
+    u_name varchar(50),
+    u_email varchar(50),
+    u_pass varchar(50),
+    PRIMARY KEY(u_email)
+    );
+    
+SELECT * FROM useraccount;
+
+
+CREATE TABLE submitorder(
+    id int(10) PRIMARY KEY AUTO_INCREMENT,
+    name varchar(50),
+    s_email varchar(50),
+    type varchar(50),
+    description varchar(50),
+    address varchar(50),
+    city varchar(50),
+    phone varchar(50),
+    daate date ,
+    FOREIGN KEY(s_email) REFERENCES useraccount(u_email)
+    );
+    
+    SELECT * FROM submitorder;
+    
