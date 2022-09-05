@@ -1,13 +1,19 @@
 # WH-Alve-Electronics-Service-Management-System
 
-* landing page
+***
+* <h2 style="color:blue;">Landing page</h2>
 
 ![](ESMS/README_images/landing.JPG)
 
-* AdminDashborad
+***
+
+* <h2 style="color:blue;">AdminDashborad</h2>
 
 ![](ESMS/README_images/AdminDashborad.JPG)
 
-* Submit Order
+***
+
+* <h2 style="color:blue;"> Submit Order</h2>
+
 
 ![](ESMS/README_images/submitOrder.JPG)
