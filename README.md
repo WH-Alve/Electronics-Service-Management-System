@@ -1,4 +1,4 @@
-# WH-Alve-Electronics-Service-Management-System
+# Electronics-Service-Management-System
 
 ***
 * <h2 style="color:blue;">Landing page</h2>
